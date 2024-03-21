@@ -4,6 +4,9 @@ body{
 }
 footer{
     background-color: #00224D;
+    position: fixed; 
+    bottom:0;
+    width:100%;
 }
 img{
 	display:block;
